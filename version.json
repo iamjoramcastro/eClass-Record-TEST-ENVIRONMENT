@@ -1,4 +1,0 @@
-{
-  "version": "2026.08.21-104",
-  "notes": "Level of Progress panel now counts learners by their grade so far (average of terms already encoded), instead of requiring all terms complete — fixes 0/20 showing despite Term 1 grades. -Ram"
-}
