@@ -1,0 +1,4 @@
+{
+  "version": "2026.08.21-105",
+  "notes": "School info (region, division, district, address, school, head, etc.) is now entered once per section and inherited by every subject created in it — no more per-subject re-typing; editing the section pushes changes to all its subjects. JHS subjects auto-get correct DepEd weights on creation (Languages/AP 30-50-20, Science/Math 40-40-20, MAPEH/TLE 20-60-20); adviser can still customize. -Ram"
+}
